@@ -3,4 +3,7 @@
 A duck with a knife.
 
 - Currently working @ pally(YC S25) reverse engineering stuff.
-  
+- Interests:
+  - Traditional ML/ explainable AI.
+  - The Strokes
+    
