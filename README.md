@@ -1,9 +1,4 @@
   
 <h1>About Me </h1>
-A duck with a knife.
+- Founding Engineer @ Pally (YCS25)
 
-- Currently working @ pally(YC S25) reverse engineering stuff.
-- Interests:
-  - Traditional ML/ explainable AI.
-  - The Strokes
-    
