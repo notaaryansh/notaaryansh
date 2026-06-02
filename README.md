@@ -1,6 +1,6 @@
   
 <h1>About Me </h1>
-Currently building <a href = https://www.trytvara.com>tvara</a><br><br>
+Currently building <a href = https://www.trytvara.com>tvara</a>: A privacy focused mac os launcher apple forgot to build. <br><br> 
 
 Prev: <br>
 - Founding Engineer @ Pally (YCS25) [Jun 2025 - Apr 2026]<br>
