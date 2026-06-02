@@ -1,6 +1,11 @@
   
 <h1>About Me </h1>
-Currently building <a href = https://www.trytvara.com>tvara</a>
-- Fixing broken stuff + reverse engineering. <br>
-- Founding Engineer @ Pally (YCS25) [Jun 2025 - Apr 2026]
+Currently building <a href = https://www.trytvara.com>tvara</a><br><br>
+
+Prev: <br>
+- Founding Engineer @ Pally (YCS25) [Jun 2025 - Apr 2026]<br>
+- Master's in AI @ Northwestern <br><br>
+
+Interests: <br>
+- Music theory, Reverse Engineering, Statistics, Classical Machine Learning, Explainable AI <br>
 
