@@ -4,7 +4,8 @@ Currently building <a href = https://www.trytvara.com>tvara</a>: A privacy focus
 
  <br>
 - Founding Engineer @ Gigi [June 2026 - Present] <br>
-- Founding Engineer @ Pally (YCS25) [Jun 2025 - Apr 2026]<br>
+- Prev. Founding Engineer @ Pally (YCS25) [Jun 2025 - Apr 2026]<br>
+- Prev. Data Scientist @ TataCommunications [Dec 2022 - Aug 2023]<br>
 - Master's in AI @ Northwestern <br><br>
 
 Interests: <br>
