@@ -1,5 +1,6 @@
   
 <h1>About Me </h1>
+Data scientist turned founding engineer :() <br>
 Currently building <a href = https://www.trytvara.com>tvara</a>: A privacy focused mac os launcher apple forgot to build. <br><br> 
 
  <br>
